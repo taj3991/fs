@@ -1,0 +1,12 @@
+
+FinalSpeed server starting... 
+System Name: linux
+Listen udp port: 150
+Listen tcp port: 150
+Network Interface List: 
+     eth0
+  Pseudo-device that captures on all interfaces   any
+     lo
+Selected Network Interface:
+     eth0
+FinalSpeed server start success.
